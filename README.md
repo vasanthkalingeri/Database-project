@@ -9,7 +9,7 @@ First compile the C program as
 gcc main.c
 Then run
 python main.py
-Then entire your query to see the results
+Then enter your query to see the results
 
 To insert items into the database
 Call the script insert.py
