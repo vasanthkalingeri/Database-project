@@ -7,7 +7,7 @@ To run
 
 First compile the C program as
 gcc main.c
-The run
+Then run
 python main.py
 Then entire your query to see the results
 
